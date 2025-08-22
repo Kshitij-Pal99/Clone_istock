@@ -8,7 +8,7 @@ This is a front-end clone of the iStock homepage, built using HTML and CSS. The 
 
 📺 [Live Demo](https://kshitij-pal99.github.io/Clone_istock/) 
 
-![Screenshot](../Images/stock.png) 
+![Screenshot](./Images/S2 d4 photo.jpg)
 
 ---
 
